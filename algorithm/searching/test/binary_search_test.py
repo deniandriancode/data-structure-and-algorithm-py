@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('./binary_search/'))
 
 import unittest
 from binary_search import binary_search

@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('./ternary_search/'))
 
 import unittest
 from ternary_search import ternary_search

@@ -1,6 +1,6 @@
 import os
 import sys
-sys.path.append(os.path.abspath('.'))
+sys.path.append(os.path.abspath('./linear_search/'))
 
 import unittest
 from linear_search import linear_search
