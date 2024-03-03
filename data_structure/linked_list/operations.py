@@ -142,6 +142,7 @@ class LinkedList:
 
         head.next.next = head # here we got the rotation
         head.next = None # bro how is this thing even work!?
+        # THE head.next IS A POINTER TO THE ORIGINAL NODE!! That's crazy!!!
 
         return revs
 
